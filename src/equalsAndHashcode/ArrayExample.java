@@ -10,7 +10,7 @@ public class ArrayExample {
 		
 		for(i=0;i<a.length;i++){
 			if(i==49999999){
-				System.out.println("value at 499999 " +a[i]);
+				System.out.println("value at 499998 " +a[i]);
 				break;
 			} else {
 				System.out.println("trying ");
